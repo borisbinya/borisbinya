@@ -63,7 +63,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=romanbinya&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=borisbinya&&style=flat-square" align="center" />
 </div>  
   
 
